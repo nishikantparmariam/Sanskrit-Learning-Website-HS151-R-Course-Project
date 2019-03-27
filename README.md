@@ -4,7 +4,7 @@ Link -
 
 http://easysanskrit.000webhostapp.com
 
-Responsive website with secure login, sign up system, quizzing and real time leader board.
+Responsive website with secure login, sign up system, quizzing and real time dynamic data.
 
 Technologies used - 
 Javascript, HTML, CSS, Firebase
