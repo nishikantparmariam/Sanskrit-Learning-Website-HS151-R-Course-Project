@@ -4,8 +4,15 @@ Link -
 
 http://easysanskrit.000webhostapp.com
 
+Responsive website with secure login, sign up system, quizzing and real time leader board.
+
 Technologies used - 
 Javascript, HTML, CSS, Firebase
+
+![alt text](https://github.com/nishikantparmariam/Sanskrit-Learning-Website-HS151-R-Course-Project-/blob/master/screenshot1.png)
+![alt text](https://github.com/nishikantparmariam/Sanskrit-Learning-Website-HS151-R-Course-Project-/blob/master/screenshot2.png)
+![alt text](https://github.com/nishikantparmariam/Sanskrit-Learning-Website-HS151-R-Course-Project-/blob/master/screenshot3.png)
+![alt text](https://github.com/nishikantparmariam/Sanskrit-Learning-Website-HS151-R-Course-Project-/blob/master/screenshot4.png)
 
 Unique features -
 1) Quizzing and scoring
