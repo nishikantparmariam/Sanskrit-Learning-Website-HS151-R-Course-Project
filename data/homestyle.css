@@ -1,0 +1,94 @@
+#displaynameask, #ageask
+        {
+            width:90% !important;
+            margin-top:15px;
+            border-radius:5px;
+            border:1px solid #aaaaaa;
+            padding:10px 5%;
+            font-size:11pt;
+            display:block;
+        }
+        body 
+        {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            padding:0;
+            background-color:#4baad3;
+            overflow-x:hidden;
+            font-size:11pt;
+        }
+        #askFordisplayName  {
+            display: none;
+            position: fixed;
+            z-index: 999;
+            padding-top: 100px; 
+            background-color: rgb(0,0,0);
+            background-color: rgba(0,0,0,0.8);
+            width: 100%; 
+            height: 100%;
+            overflow: auto;
+            left: 0;
+            top: 0;
+            
+        }
+        #bmd 
+        {
+            width:100%;
+            background-color:#000;
+            text-align:center;
+            padding-top:20px;
+            padding-bottom:20px;
+        }
+        #askFordisplayNameinside 
+        {
+            background-color:#ffffff;
+            border-radius:5px;
+            box-shadow:0px 1px 2px rgba(0,0,0,0.5);
+            z-index:2 !important;
+            position:fixed;
+            width:30%;
+            margin-left:35%;
+            margin-top:0px;
+            display:;
+        }
+        @media screen and (max-width:850px) {
+            #askFordisplayNameinside 
+            {
+                width:85%;
+                margin-left:7.5%;
+                margin-right:7.5%;
+            }
+            #ndivc , #container
+            {
+                width:85% !important;
+                margin-left:7.5% !important;
+                
+            }
+
+    }
+            #regbtn 
+        {
+        
+            margin-top:15px;
+            border-radius:5px;
+            border:1px solid #1f5e79;
+            padding:5px 5%;
+            display:block;
+            background-color:#4baad3;
+            color:#ffffff;
+            transition: 0.2s; 
+        }
+        #regbtn:hover 
+        {
+            background-color: #FFFFFF;
+            color:#1f5e79;
+        }
+        #ndiv
+        {
+            width:100%;margin-left:%;height:50px;background-color:#fff;position:fixed;border:0px solid #0977a0;border-top:none;box-shadow:0px 1px 5px rgba(0,0,0,0.5);border-radius:0px ;
+        }
+        #ndivc , #container
+        {
+            width:70%;
+            margin-left:15%;
+        }

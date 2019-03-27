@@ -1,0 +1,138 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  padding:0;
+  background-color:#a6def7;
+  overflow-x:hidden;
+  
+}
+
+@import url(http://fonts.googleapis.com/earlyaccess/lohitdevanagari.css);
+#login_signup 
+{
+    width:30% !Important;
+    background-color:#ffffff;    
+    float: left;
+    border-radius:4px;
+    box-shadow:1px 1px 3px #2f89af;
+}
+
+#login_signup_right 
+{
+    width:60% !Important;
+    background-color:;
+    float: left;
+
+}
+#containermain 
+{
+    width:100%;
+    margin-left:5% !important;
+    margin-top:10%;
+    
+}
+#lsi 
+{
+    margin:20px;
+}
+#hd 
+{
+    font-size:17pt;
+    
+}
+
+#tril, #tris, .in-t
+{
+    margin-top:2px;
+    float: left;
+    padding:12px 5%;
+    border-radius:5px 5px 0px 0px;
+    margin-right:5px;
+    border:1px solid #aaaaaa;
+    cursor: pointer;
+    transition: 0.2s;
+}
+ #tril:hover , #tris:hover
+ {
+     background-color:#ececce !important;
+
+ }
+ #triggers_d 
+ {
+     
+ }
+@media screen and (max-width:850px) {
+    #login_signup, #login_signup_right {
+      width:85% !important; 
+      margin-left:7.5%;  
+    }
+   
+    #containermain 
+    {
+        width:100%;
+        margin:0% !important;
+        margin-top:6% !important;
+        
+    }
+
+  }
+#reginput, #reginput_s_fp , #reginput_email, #reginput_pass , #reginput_s_pass, #reginput_s_name, #reginput_s_email
+{
+    width:90% !important;
+    margin-top:15px;
+    border-radius:5px;
+    border:1px solid #aaaaaa;
+    padding:12px 5%;
+    font-size:12pt;
+    display:block;
+
+}
+#tris_fp {
+    display:none;
+}
+#est 
+{
+    color:;
+}
+#regbtn 
+{
+   
+    margin-top:15px;
+    border-radius:5px;
+    border:1px solid #1f5e79;
+    padding:12px 5%;
+    font-size:12pt;
+    display:block;
+    background-color:#4baad3;
+    color:#ffffff;
+    transition: 0.2s; 
+}
+#regbtn:hover 
+{
+    background-color: #FFFFFF;
+    color:#1f5e79;
+}
+#reginput:hover, #reginput_s_fp:hover , #reginput_email:hover , #reginput_pass:hover, #reginput_s_pass:hover, #reginput_s_name:hover, #reginput_s_email:hover 
+{
+    border-color:#4baad3;
+}
+#reginput:focus 
+{
+    border-color:#4baad3 !important;
+    border-radius: 5px;
+}
+#fp 
+{
+    float:right !important;
+    margin-top:-30px;
+    cursor: pointer;
+}
+#fp2 
+{
+    float:right !important;
+    margin-top:-30px;
+}
+#fp:hover 
+{
+    color:#4baad3;
+}
